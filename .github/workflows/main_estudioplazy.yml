@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'estudioplazy'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8944DA849470422E979F0908F09A09E2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5B9D34AF5AE04AD9A8E0EBD54CA2B18D }}
           package: .
