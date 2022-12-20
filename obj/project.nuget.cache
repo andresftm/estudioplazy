@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o/t5f7/BSPctOqJGMMrFbhrYb3G3le+e8iB8NOZSMiizfaMo514JuYpR1iF1RK+UmQpgIcCt3nrx1sU+KeUDsA==",
+  "dgSpecHash": "MywzsUmb9XBV6AHoIrq2dKmWTr4P/5NNQvo8rT3Fm1eqp/xK/rApzYmLmMh1UoIIcyvZsjZvoZcCao/AwtILTw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\azure\\estudioplazygit\\estudioplazymvc\\estudioplazymvc.csproj",
+  "projectFilePath": "C:\\Projects\\azure\\estudioplazygit\\estudioplazymvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\atabares\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
